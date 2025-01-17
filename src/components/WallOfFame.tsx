@@ -3,7 +3,7 @@ const members = [
   {
     name: "Mawuliah Mansaray",
     role: "Software Engineer",
-    image: "src/img/mawuliah.jpg"
+    image: "/img/mawuliah.jpg"
   },
   {
     name: "Fatima Ali",
