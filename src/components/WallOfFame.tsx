@@ -29,7 +29,7 @@ const members = [
 
 const WallOfFame = () => {
   // Double the members array to create a seamless loop
-  const doubledMembers = [...members, ...members];
+  const doubledMembers = [...members, ...members, ...members];
 
   return (
     <section id="wall-of-fame" className="py-20 bg-gray-50 overflow-hidden">
